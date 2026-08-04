@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "auth_icon_color",
+      "value": "#4EA1FF"
+    },
+    {
+      "name": "auth_failed_color",
+      "value": "#FF6B52"
+    },
+    {
+      "name": "page_background",
+      "value": "#000000"
+    },
+    {
+      "name": "panel_title_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "panel_text_color",
+      "value": "#FFFFFF"
+    }
+  ]
+}

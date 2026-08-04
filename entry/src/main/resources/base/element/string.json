@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "permission_access_biometric_reason",
+      "value": "Used to verify your identity with fingerprint/face/PIN before showing your health records"
+    },
+    {
+      "name": "auth_locked_hint",
+      "value": "Tap to unlock health data"
+    },
+    {
+      "name": "auth_authenticating_hint",
+      "value": "Verifying..."
+    },
+    {
+      "name": "auth_failed_hint",
+      "value": "Verification failed, tap to retry"
+    },
+    {
+      "name": "health_data_title",
+      "value": "Health Data"
+    },
+    {
+      "name": "blood_pressure_section_title",
+      "value": "Blood Pressure History"
+    },
+    {
+      "name": "medication_section_title",
+      "value": "Medication Schedule"
+    },
+    {
+      "name": "emergency_contacts_section_title",
+      "value": "Emergency Contacts"
+    }
+  ]
+}
