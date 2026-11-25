@@ -2,7 +2,7 @@
 
 # BiometricAuthButton (how-to-build-biometric-auth-button)
 
-BiometricAuthButton is a HarmonyOS Next wearable codelab demonstrating a reusable biometric authentication component built on the system-provided `UserAuthIcon` (rendering + tap-triggered auth flow) and the companion `userAuthIcon` module (styling and behavior configuration). The codelab applies the component to a secure health data viewer: tapping the icon triggers on-device biometric verification (fingerprint, face, or PIN fallback) before revealing sensitive health records — blood pressure history, medication schedule, and emergency contacts. The icon automatically adapts to whichever authentication method is actually enrolled on the device.
+BiometricAuthButton is a HarmonyOS wearable codelab demonstrating a reusable biometric authentication component built on the system-provided `UserAuthIcon` (rendering + tap-triggered auth flow) and the companion `userAuthIcon` module (styling and behavior configuration). The codelab applies the component to a secure health data viewer: tapping the icon triggers on-device biometric verification (fingerprint, face, or PIN fallback) before revealing sensitive health records — blood pressure history, medication schedule, and emergency contacts. The icon automatically adapts to whichever authentication method is actually enrolled on the device.
 
 # Preview
 
@@ -74,7 +74,7 @@ entry/src/main/ets/
 # Constraints and Restrictions
 
 ## Supported Device
-- Huawei Watch 5 (HarmonyOS NEXT wearable, circular/rectangular)
+- Huawei Watch 5 (HarmonyOS wearable, circular/rectangular)
 
 ## Limitations
 - Requires a device/emulator with at least one biometric method (fingerprint or face) enrolled, or system PIN configured, to complete the authentication flow. Without any enrolled method, `UserAuthIcon` falls back to the PIN glyph.
